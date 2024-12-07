@@ -45,7 +45,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read our docs KASTEH
+            Read our docs kasteh
           </a>
         </div>
       </main>
